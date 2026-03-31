@@ -11,7 +11,7 @@
 - Honors: UCF Scholars Award, Dean's List
 - Involvement: Knight Hacks and Project Launch Participant
 
-**University of Central Florida** — Orlando, FL *(June. 2024 – April 2025)*  
+**University of Central Florida** — Orlando, FL *(June 2024 – April 2025)*  
 *Associate in Arts*
 
 ---
@@ -28,7 +28,7 @@
 
 ## Projects
 
-**NFC Card Game** | *C, SQLite, RayLib*, Arduino — Feb 2026 – Present
+**NFC Card Game** | *C, SQLite, RayLib*, Arduino — Feb. 2026 – Present
 - Built a two-player strategy game in C with Raylib, using Arduino NFC readers over serial I/O to turn physical card scans into in-game unit summons and spell effects
 - Developed a split-screen rendering pipeline with dual 90-degree rotated viewports, procedural biome tilemaps, and a layered sprite system for flexible card visuals
 - Designed a data-driven card architecture with SQLite and JSON-defined stats/effects, enabling rapid balance and content updates without recompilation
