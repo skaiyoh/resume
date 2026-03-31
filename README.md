@@ -6,19 +6,19 @@
 
 ## Education
 
-**University of Central Florida** — Orlando, FL
+**University of Central Florida** — Orlando, FL  
 *Bachelor of Science in Computer Science; 3.5 GPA* — Expected Dec. 2027
 - Honors: UCF Scholars Award, Dean's List
 - Involvement: Knight Hacks and Project Launch Participant
 
-**University of Central Florida** — Orlando, FL
+**University of Central Florida** — Orlando, FL  
 *Associate in Arts* — June. 2024 – April 2025
 
 ---
 
 ## Experience
 
-**Personal Technical Experience** — 2020 – Present
+**Personal Technical Experience** — 2020 – Present  
 *Independent* — Orlando, FL
 - Self-taught, personal experience building, repairing, and troubleshooting PCs and laptops
 - Experience fixing consumer electronics for friends, family, and coworkers, including hardware diagnosis and general troubleshooting
