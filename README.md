@@ -1,25 +1,25 @@
 # Nathan Davis
 
-904-728-4489 | [nathanjdavis0226@gmail.com](nathanjdavis0226@gmail.com) | [linkedin.com/in/doesntexistbecausetheywantmyid](linkedin.com/in/doesntexistbecausetheywantmyid) | [github.com/skaiyoh](github.com/skaiyoh)
+904-728-4489 | [nathanjdavis0226@gmail.com](mailto:x@x.com) | [linkedin.com/in/doesntexistbecausetheywantmyid](https://linkedin.com/in/...) | [github.com/skaiyoh](https://github.com/...)
 
 ---
 
 ## Education
 
-**University of Central Florida** — Orlando, FL  
-*Bachelor of Science in Computer Science; 3.5 GPA* — Expected Dec. 2027
+**University of Central Florida** — Orlando, FL *(Expected Dec. 2027)*  
+*Bachelor of Science in Computer Science; 3.5 GPA*
 - Honors: UCF Scholars Award, Dean's List
 - Involvement: Knight Hacks and Project Launch Participant
 
-**University of Central Florida** — Orlando, FL  
-*Associate in Arts* — June. 2024 – April 2025
+**University of Central Florida** — Orlando, FL *(June. 2024 – April 2025)*  
+*Associate in Arts*
 
 ---
 
 ## Experience
 
-**Personal Technical Experience** — 2020 – Present  
-*Independent* — Orlando, FL
+**Personal Technical Experience** — Orlando, FL *(2020 – Present)*  
+*Independent*
 - Self-taught, personal experience building, repairing, and troubleshooting PCs and laptops
 - Experience fixing consumer electronics for friends, family, and coworkers, including hardware diagnosis and general troubleshooting
 - Experience installing and configuring Windows and Linux systems, including dual-boot environments with GRUB and systemd-boot
