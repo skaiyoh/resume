@@ -1,9 +1,3 @@
-# Nathan Davis
-
-904-728-4489 | [nathanjdavis0226@gmail.com](mailto:x@x.com) | [linkedin.com/in/doesntexistbecausetheywantmyid](https://linkedin.com/in/...) | [github.com/skaiyoh](https://github.com/...)
-
----
-
 ## Education
 
 **University of Central Florida** — Orlando, FL *(Expected Dec. 2027)*  
